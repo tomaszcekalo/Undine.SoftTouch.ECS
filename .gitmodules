@@ -1,0 +1,3 @@
+[submodule "SoftTouch.ECS"]
+	path = SoftTouch.ECS
+	url = https://github.com/ykafia/SoftTouch.ECS.git
